@@ -54,6 +54,10 @@ def entry():
     keyboard.wait("spacebar")
     makePlayer()
  
+def gameStory():
+    print("You walk out of a cave.")
+    print("You look around you...")
+
 
 #The Start of the progam
 entry()
